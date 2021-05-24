@@ -9,3 +9,6 @@ print("b is = ",b)
 
 c = x * y
 print(c)
+
+d = x/y
+print(d)
