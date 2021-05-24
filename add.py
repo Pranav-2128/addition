@@ -12,3 +12,5 @@ print(c)
 
 d = x/y
 print(d)
+
+print("tried to make calculator")
